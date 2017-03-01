@@ -1,0 +1,14 @@
+{
+  "name": "twitter-test",
+  "version": "1.0.0",
+  "description": "latest tweets",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Milad Mirkarimi",
+  "license": "MIT",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  }
+}
