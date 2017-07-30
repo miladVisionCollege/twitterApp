@@ -1,6 +1,6 @@
 var Twitter = require('twitter');
 var api = require("./api.json");
-// test comment
+// test comment number 2
 function printError(error){
 	console.error(error.message);
 }
